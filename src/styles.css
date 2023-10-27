@@ -70,3 +70,9 @@ a {
   font-size: 30px;
   margin: 0px 0px 10px 0px;
 }
+
+.credit {
+  font-size: 11px;
+  max-width: 600px;
+  margin: -15px auto;
+}
